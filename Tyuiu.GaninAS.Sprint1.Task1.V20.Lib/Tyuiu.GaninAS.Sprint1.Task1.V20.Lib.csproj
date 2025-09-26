@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="tyuiu.cources.programming.interfaces">
+      <HintPath>..\..\DLL\tyuiu.cources.programming.interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Tyuiu.GaninAS.Sprint1.Task1.V20">
+      <HintPath>..\Tyuiu.GaninAS.Sprint1.Task1.V20\bin\Debug\net8.0\Tyuiu.GaninAS.Sprint1.Task1.V20.dll</HintPath>
+    </Reference> 
+  </ItemGroup>
+
+</Project>

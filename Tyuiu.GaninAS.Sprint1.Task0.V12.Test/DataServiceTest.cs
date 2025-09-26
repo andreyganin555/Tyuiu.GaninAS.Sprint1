@@ -1,6 +1,6 @@
-﻿using Tyuiu.GaninAS.Sprint1.Task0.V12.Lib;
+﻿using tyuiu.GaninAS.Sprint1.Task0.V12.Lib;
 
-namespace Tyuiu.GaninAS.Sprint1.Task0.V12.Test
+namespace tyuiu.GaninAS.Sprint1.Task0.V12.Test
 {
     [TestClass]
     public sealed class DataServiceTest

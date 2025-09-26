@@ -1,4 +1,4 @@
-﻿namespace Tyuiu.GaninAS.Sprint1.Task0.V12.Lib
+﻿namespace tyuiu.GaninAS.Sprint1.Task0.V12.Lib
 {
     public class DataService: ISprint1Task0V12
     {
