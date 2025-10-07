@@ -9,3 +9,4 @@ public class DataService : ISprint1Task7V28
         return Math.Round(res, 3);
     }
 }
+
